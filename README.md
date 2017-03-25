@@ -36,7 +36,7 @@ This Class will Define the Statistic layer in our Package or library That allowe
   ```
 * Variance ()
   - It provide the Variance of The Vector or the Spreading of data .
- ```js
+  ```js
   arre =[1,2,3,3]
   s.Vector(arre);
   s.Mode();
@@ -60,7 +60,7 @@ This Class will Define the Statistic layer in our Package or library That allowe
   ```
 * UpperQuartile () :
   - It provide the UpperQuartile of The Vector .
- ```js
+  ```js
   arre =[1,2,3,4,4,5,6]
   s.Vector(arre);
   s.UpperQuartile();

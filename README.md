@@ -5,13 +5,11 @@ This Class will Define the Statistic layer in our Package or library That allowe
 
 * Mean () 
   - It provide The Avarage of The Vector .
-  ~~~~
+  ```js
   arre =[1,2,3]
   s.Vector(arre);
-  s.Mean();
-  it will generate :
-  Mean = 2
-  ~~~~
+  s.Mean(); // it will generate : Mean = 2
+  ```
 * Sum ()
   - It provide the Summation of the Vector .
   ~~~~
